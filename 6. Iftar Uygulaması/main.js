@@ -154,7 +154,7 @@ function ChangeLocation(){
     var city = cityInput.options[cityInput.selectedIndex].text;
 
     var countyInput = document.getElementById('counties');
-    var count = countyInput.options[countyInput.selectedIndex].text;
+    var county = countyInput.options[countyInput.selectedIndex].text;
 
     document.getElementById('country').innerText = country;
     document.getElementById('city').innerText = city;    
