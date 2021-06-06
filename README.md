@@ -22,3 +22,7 @@
 ---
 ![Getting Started](./Images/IftarUygulamasi.png)
 ---
+## 7. Twitter Clone
+---
+![Getting Started](./Images/twitter-clone-latest.png)
+---
