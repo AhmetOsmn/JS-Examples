@@ -26,3 +26,7 @@
 ---
 ![Getting Started](./Images/twitter-clone-latest.png)
 ---
+## 8. Getir Clone
+---
+![Getting Started](./Images/getirclone-1.png)
+---
