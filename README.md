@@ -28,5 +28,5 @@
 ---
 ## 8. Getir Clone
 ---
-![Getting Started](./Images/getirclone-1.png)
+![Getting Started](./Images/getirclone-3.png)
 ---
