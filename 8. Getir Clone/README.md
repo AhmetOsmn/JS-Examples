@@ -4,6 +4,4 @@ Herkese merhaba, bu projede Getir'in internet sayfasının bir klonunu yaparak R
 
 ## Açıklama
 
-Projeyi YouTube üzerinden dersleri paylaşan PROTOTÜRK kanalını takip ederek yazıyorum.
-
-[Kanalın linki](https://www.youtube.com/c/PROTOTURKCOM)
+Projeyi YouTube üzerinden dersleri paylaşan [PROTOTURK](https://www.youtube.com/c/PROTOTURKCOM) kanalını takip ederek yazıyorum.
