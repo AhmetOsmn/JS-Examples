@@ -6,4 +6,4 @@ Herkese merhaba, pratik yaparak React öğreniyorum. Faydası olacağını düş
 
 ## Açıklama
 
-Projeyi YouTube üzerinden dersleri paylaşan [PROTOTURK](https://www.youtube.com/c/PROTOTURKCOM) kanalını takip ederek yazıyorum.
+Projeyi, YouTube üzerinden dersleri paylaşan [PROTOTURK](https://www.youtube.com/c/PROTOTURKCOM) kanalını takip ederek yazdım. Daha fazla içerik için kendilerini takip edebilirsiniz.
