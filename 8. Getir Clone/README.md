@@ -1,6 +1,8 @@
 # GETİR CLONE
 
-Herkese merhaba, bu projede Getir'in internet sayfasının bir klonunu yaparak React öğrenmeye çalışıyorum.
+Herkese merhaba, pratik yaparak React öğreniyorum. Faydası olacağını düşündüğüm için Getir'in internet sayfasının bir klonunu yaptım.
+
+İncelemek isterseniz: [GETİR](https://getir-clone-prototurk.netlify.app/)
 
 ## Açıklama
 
